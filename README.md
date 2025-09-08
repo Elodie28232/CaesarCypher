@@ -1,22 +1,4 @@
-# 🔐 Cipher Toolkit (Java)
-
-A Java-based toolkit that implements classical cryptographic ciphers with encryption, decryption, brute-force cracking, and frequency analysis.  
-Includes both **command-line tools** and a **GUI application**.
-
----
-
-## Features
-- **Caesar Cipher** (encrypt, decrypt, brute force, frequency analysis)
-- **Vigenère Cipher** (poly-alphabetic)
-- **Playfair Cipher** (5x5 digraph substitution)
-- **Affine Cipher**
-- **Hybrid Cipher** (Caesar + Base64)
-- **Brute-force decryption** for Caesar (cryptanalysis basics)
-- **Frequency analysis** to help guess keys automatically
-- **JUnit tests** for reliability
-- **Swing GUI** for interactive use
-
-# 🔐 Cipher Toolkit (Java)
+# Cipher Toolkit (Java)
 
 A Java-based toolkit that implements classical cryptographic ciphers with encryption, decryption, brute-force cracking, and frequency analysis.  
 Includes both **command-line tools** and a **GUI application**.
